@@ -266,7 +266,7 @@
                     android:layout_width="400dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:scaleType="center"
+                    android:scaleType="fitCenter"
                     android:src="@drawable/image_1" />
             </LinearLayout>
 

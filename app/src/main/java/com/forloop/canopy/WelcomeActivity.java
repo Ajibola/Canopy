@@ -3,6 +3,7 @@ package com.forloop.canopy;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.facebook.AccessToken;
@@ -13,6 +14,8 @@ import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
 
 import java.util.Arrays;
+
+import utils.Util;
 
 public class WelcomeActivity extends AppCompatActivity {
 

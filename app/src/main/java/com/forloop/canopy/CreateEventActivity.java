@@ -141,7 +141,6 @@ public class CreateEventActivity extends AppCompatActivity {
         }
     }
 
-
     public void createEvent() {
 
         finish();
